@@ -1,0 +1,37 @@
+// You can add CSS rules here that will be inlined into each document.
+// .sidebar a {
+//   text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
+// }
+
+.nav-btn-bar{
+    height: 3.5rem;
+}
+
+.nav-btn{
+    height: 3.5rem;
+}
+
+.sidebar {
+    text-align: right;
+}
+
+.sidebar-bg {
+    background: rgb(242,159,5);
+    background: linear-gradient(270deg, rgb(242, 180, 5) 26%, rgba(242,135,5,1) 54%, rgba(242,92,5,1) 89%, rgba(242,68,5,1) 100%);
+}
+
+
+.content .avatar{
+    background-color:white;
+}
+
+.highlighter-rouge:not(.language-plaintext){
+  font-size:1.07em;
+}
+
+.figure-base, div.highlight>.pre-header, .pre-base, article .katex-display, article mjx-container[jax][display="true"], pre, table:not(.rouge-table) {
+  margin-left: 0rem;
+  margin-right: -1rem;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
