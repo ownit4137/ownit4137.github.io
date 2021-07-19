@@ -111,6 +111,7 @@ A caption to an image.
 
 ~~~js
 // file: "code-block.js"
+
 // file: "code-block.js"
 
 var adder = new Function("a", "b", "return a + b");
@@ -122,6 +123,7 @@ adder(2, 6);
 
 ```html
 <!-- file: `_includes/my-body.html` -->
+
 <!-- file: `_includes/my-body.html` -->
 
 <script type="module">
