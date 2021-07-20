@@ -35,7 +35,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/blog/site-logo.png
+logo:                  /assets/img/config/site-logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -78,6 +78,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
