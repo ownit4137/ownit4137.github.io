@@ -12,6 +12,12 @@ url:                   https://ownitfortest.github.io
 baseurl:               '/'
 
 
+# Theme
+# ---------------------------------------------------------------------------------------
+
+# theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+
 # General settings
 # ---------------------------------------------------------------------------------------
 
@@ -75,11 +81,6 @@ paginate:              10
 paginate_path:         /:num/
 
 
-# Theme
-# ---------------------------------------------------------------------------------------
-
-theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
 # Customizaton
