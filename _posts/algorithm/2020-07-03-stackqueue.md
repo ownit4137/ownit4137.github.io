@@ -5,14 +5,16 @@ categories: [Algorithm]
 hide_last_modified: true
 ---
 
-![](/assets/posts/al/aafb2884.png)
+# Stack & Queue
+
+Implementing Stack & Queue in C++
+
+![]((assets/img/post/algorithm/aafb2884.png)
+
 https://medium.com/x-organization/stack-and-queue-60f365963552
 {:.figcaption}
 
-
 ## Stack
-
-Implementing Stack & Queue in C++
 
 ### class Stack(array)
 

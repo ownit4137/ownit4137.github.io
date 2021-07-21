@@ -9,7 +9,8 @@ hide_last_modified: true
 
 Implementing a Linked List in C++
 
-![](/assets/posts/al/86223188.png)
+![]((assets/img/post/algorithm/86223188.png)
+
 https://www.faceprep.in/data-structures/linked-list-introduction/
 {:.figcaption}
 
