@@ -66,5 +66,6 @@ app.get("/PollPlace", function (req, res) {
 ## source
 
 - [github]{:.heading.flip-title}
+{:.related-posts.faded}
 
 [github]: https://github.com/ownit4137/smartvoters

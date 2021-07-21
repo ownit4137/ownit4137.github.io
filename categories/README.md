@@ -13,18 +13,28 @@ permalink: /categories/
 * [Papers]{:.heading.flip-title} --- Computer Vision paper reviews
 {:.related-posts.faded}
 
-[Algorithms]: ../CV-Alg/
-[Applications]: ../CV-App/
-[Papers]: ../CV-Paper/
 
 ## Blog
 * [Writings]{:.heading.flip-title} --- How to write contents
 {:.related-posts.faded}
 
-[Writings]: ../Blog/
 
-## Examples
-* [Docs]{:.heading.flip-title} --- dfdfdd
+## Algorithm
+* [Algorithm]{:.heading.flip-title} --- C++ Algorithms
 {:.related-posts.faded}
 
-[Docs]: ../posts/docs/
+
+## Project
+* [Project]{:.heading.flip-title} --- Project archive
+{:.related-posts.faded}
+
+
+
+[Algorithms]: ../cv-alg/
+[Applications]: ../cv-app/
+[Papers]: ../cv-paper/
+
+[Writings]: ../blog/
+
+[Algorithm]: ../algorithm/
+[Project]: ../project/
