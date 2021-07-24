@@ -8,8 +8,9 @@ hide_last_modified: true
 # Linked List
 
 Implementing a Linked List in C++
+{:.faded}
 
-![]((assets/img/post/algorithm/86223188.png)
+![](/assets/img/post/algorithm/86223188.png)
 
 https://www.faceprep.in/data-structures/linked-list-introduction/
 {:.figcaption}

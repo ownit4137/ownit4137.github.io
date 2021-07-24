@@ -8,8 +8,9 @@ hide_last_modified: true
 # Stack & Queue
 
 Implementing Stack & Queue in C++
+{:.faded}
 
-![]((assets/img/post/algorithm/aafb2884.png)
+![](/assets/img/post/algorithm/aafb2884.png)
 
 https://medium.com/x-organization/stack-and-queue-60f365963552
 {:.figcaption}

@@ -8,9 +8,14 @@ permalink: /categories/
 ---
 
 ## Computer Vision
-* [Algorithms]{:.heading.flip-title} --- Computer Vision algorithms and techniques
-* [Applications]{:.heading.flip-title} --- Applications of Computer Vision algorithms
+* [Algorithms](../cv-alg/){:.heading.flip-title} --- Computer Vision algorithms and techniques
+* [Applications](../cv-app/){:.heading.flip-title} --- Applications of Computer Vision algorithms, OpenCV
 * [Papers]{:.heading.flip-title} --- Computer Vision paper reviews
+{:.related-posts.faded}
+
+## Machine Learning
+* [Algorithms](../ml-alg/){:.heading.flip-title} --- Machine Learning algorithms and techniques
+* [Applications](../ml-app/){:.heading.flip-title} --- Applications of Machine Learning algorithms, Kaggle
 {:.related-posts.faded}
 
 
@@ -29,9 +34,6 @@ permalink: /categories/
 {:.related-posts.faded}
 
 
-
-[Algorithms]: ../cv-alg/
-[Applications]: ../cv-app/
 [Papers]: ../cv-paper/
 
 [Writings]: ../blog/

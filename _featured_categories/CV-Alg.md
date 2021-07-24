@@ -1,7 +1,7 @@
 ---
 layout: list
-title: CV-Alg
-slug: CV-Alg
+title: CV-alg
+slug: CV-alg
 sitemap: false
 
 description: >

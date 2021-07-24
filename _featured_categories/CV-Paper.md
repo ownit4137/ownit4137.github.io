@@ -1,7 +1,7 @@
 ---
 layout: list
-title: CV-Paper
-slug: CV-Paper
+title: CV-paper
+slug: CV-paper
 sitemap: false
 
 description: >

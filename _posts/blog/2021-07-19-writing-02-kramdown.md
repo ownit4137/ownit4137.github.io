@@ -20,6 +20,7 @@ invert_sidebar: false
 # How to write contents 2
 
 How to write contents using kramdown
+{:.faded}
 
 1. toc
 {:toc}

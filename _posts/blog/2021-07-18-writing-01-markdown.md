@@ -20,6 +20,7 @@ invert_sidebar: false
 # How to write contents 1
 
 How to write contents using markdown
+{:.faded}
 
 
 ## Inline Markdown elements

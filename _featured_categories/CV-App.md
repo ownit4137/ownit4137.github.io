@@ -1,7 +1,7 @@
 ---
 layout: list
-title: CV-App
-slug: CV-App
+title: CV-app
+slug: CV-app
 sitemap: false
 
 description: >

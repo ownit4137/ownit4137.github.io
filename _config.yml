@@ -1,3 +1,10 @@
+# Theme
+# ---------------------------------------------------------------------------------------
+
+# theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+
+
 # Config
 # ========================================================================================
 
@@ -10,13 +17,6 @@ url:                   https://ownitfortest.github.io
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
 baseurl:               '/'
-
-
-# Theme
-# ---------------------------------------------------------------------------------------
-
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 # General settings
 # ---------------------------------------------------------------------------------------
