@@ -10,6 +10,8 @@ hide_last_modified: true
 Iris dataset, Cross Validation, GridSearchCV
 {:.faded}
 
+### Code
+
 <script src="https://gist.github.com/ownit4137/607606ed1d3d244fb9370420328a4de8.js"></script>
 
 
