@@ -29,3 +29,7 @@
 .gist iframe.render-viewer {
   height: 100vh !important;
 }
+
+article mjx-container[jax][display="true"]{
+  overflow-y: hidden !important;
+}
