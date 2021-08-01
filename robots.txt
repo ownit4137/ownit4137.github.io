@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://ownit4137.github.io/sitemap.xml
